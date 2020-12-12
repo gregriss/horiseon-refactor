@@ -81,7 +81,6 @@ a {
 p {
     font-size: 16px;
 }
-
 /* Three main sections each follow these declarations, covered by one class. */
 .mainSection {
     margin-bottom: 20px;
@@ -91,20 +90,17 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 /* Three id's have been replaced with a single class */
 .asideSection {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 /* One class applies to all three images in the aside. */
 .asidePix {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* Rules for the size and float of the Main Section images. */
 .leftImg {
     float: left;
@@ -117,12 +113,10 @@ p {
     margin-left: 25px;
     max-height: 200px;
 }
-
 /* This feature occurs only in this one place on the page, hence, the id. */
 #seo {
     color: #d9dcd6;
 }
-
  /* The large, unique image near the top of the page */
 #digitalMarketingImage {
     height: auto;
@@ -132,7 +126,6 @@ p {
     background-position: center;
     
 }
-
 /* This type of h3 occurs only once, so it's labeled with an id instead of a class */
 #footerh3 {
     font-size: 20px;

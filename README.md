@@ -5,9 +5,9 @@ My refactoring of the Horiseon Website.
 
 For this project I set out to refactor the HTML and CSS for Horiseon's website in order to maximize accesibility for users, search engines, and other developers.  
 
-This website was refactored so that the items in the nav bar properly link to the corresponding sections in the webpage below, the images have alt attributes, and the HTML has been restructured using semantic tags for better search engine optimization. Several redundant tags, classes, and id's were removed in favor of cleaner, more concise code.
+This website was refactored so that the items in the nav bar properly link to the corresponding sections in the webpage below, the images have alt attributes, and the HTML has been restructured using semantic tags for better search engine optimization. Several redundant tags, classes, and id's were removed in favor of cleaner, more concise code, and comments describe these changes.
 
-The CSS styles have also been consolidated and reordered to follow CSS conventions.
+The CSS styles have also been consolidated, reordered, and commented to follow CSS conventions.
 
 ## Deployed Page and Code
 
