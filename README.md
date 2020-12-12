@@ -18,7 +18,8 @@ and the code is viewable at https://github.com/gregriss/horiseon-refactor.git
 
 Horiseon's website is simple and intuitive to use. Simply click an item in the nav bar in the top right of the page to access the corresponding section of the site.
 
-Here is a screenshot of the deployed page: "./assets/images/horiseon.png"
+Here is a screenshot of the deployed page: 
+![Horiseon Homepage] (assets/images/horiseon.png)
 
 ## License 
 
