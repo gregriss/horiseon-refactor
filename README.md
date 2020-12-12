@@ -9,16 +9,16 @@ This website was refactored so that the items in the nav bar properly link to th
 
 The CSS styles have also been consolidated and reordered to follow CSS conventions.
 
-## Installation
+## Deployed Page and Code
 
-This project does not require installation, but the website is viewable at https:// 
-and the code is viewable at .........github.io/code-refactor 
+The website is viewable at https://gregriss.github.io/horiseon-refactor/
+and the code is viewable at https://github.com/gregriss/horiseon-refactor.git 
 
 ## Usage
 
 Horiseon's website is simple and intuitive to use. Simply click an item in the nav bar in the top right of the page to access the corresponding section of the site.
 
-A screenshot can be found here: 
+Here is a screenshot of the deployed page: "./assets/images/horiseon.png"
 
 ## License 
 
